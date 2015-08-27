@@ -8,6 +8,7 @@
         Picnic Team
     </author>
     <content src="index.html" />
+    <preference name="SplashScreen" value="screen"/>
     <preference name="permissions" value="none" />
     <preference name="orientation" value="default" />
     <preference name="target-device" value="universal" />
